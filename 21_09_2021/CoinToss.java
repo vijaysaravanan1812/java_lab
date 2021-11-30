@@ -1,4 +1,4 @@
-import java.util.*;
+ import java.util.*;
 public class CoinToss {
     private static int heads;
     private static int tails;
